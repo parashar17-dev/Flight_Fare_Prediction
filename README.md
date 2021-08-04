@@ -1,2 +1,2 @@
 # Flight_Fare_Prediction
-A Machine Learning for Predicting flight fare
+A Machine Learning model to predict flight fare
